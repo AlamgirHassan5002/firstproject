@@ -1,0 +1,65 @@
+.titleimg
+{
+    height: 50px;
+}
+.x1
+{
+    height: 300px;
+    padding: 3% 5%;
+margin-left:475px;
+}
+#pagebody
+{
+    background-color: #8A8888;
+    padding-bottom: 5px;
+
+}
+.img
+{
+    height:575px;
+    width: 100%;
+}
+.intro
+{
+    padding: 2% 4%;
+
+}
+.sedans
+{
+    background-color: #8A8888;
+    padding: 2% 2%;
+}
+.sedans1
+{
+    background-color: #191970;
+}
+.img1
+{
+    height: 300px;
+    width:600px;
+    padding: 4% 10%;
+}
+.col-lg-6
+{
+    padding-left:3%;
+    padding-top:2%;
+    text-align: center;
+}
+#suvs
+{
+    background-color: #8A8888;
+    padding: 2% 2%;
+}
+.suvs1
+{
+    background-color:#D3D3D3;
+}
+#coupes
+{
+    background-color: #778899;
+}
+#convertible
+{
+    background-color: #4169E1;
+    
+}
